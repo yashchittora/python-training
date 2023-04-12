@@ -16,7 +16,7 @@ while(True):
     elif c.lower() == 'r':
         mixer.music.unpause()
     
-    elif c.lower() == 'ee':
+    elif c.lower() == 'e':
         mixer.music.stop()
     
 
